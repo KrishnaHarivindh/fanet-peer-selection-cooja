@@ -39,4 +39,4 @@ The weighted score uses fixed illustrative inputs for distance benefit, residual
 
 This is an educational framework prototype. Inputs are fixed examples, not live radio measurements. The score is a transparent weighted example, not a complete Adaptive SOA optimizer. Trust participates in ranking, but cryptographic security and attack/detection experiments are not implemented. The simulation demonstrates the use-case flow; it does not validate performance claims or predict real-world network behavior.
 
-The Cooja simulation expects Contiki-NG at `~/contiki-ng`. Java and the Contiki-NG toolchain are required. The screenshots and course use-case document from the source folder are omitted from this public repository.
+The Cooja simulation expects Contiki-NG at `~/contiki-ng`. Java and the Contiki-NG toolchain are required. The two Cooja screenshots are included as visual references. The course use-case document is omitted because it includes personal information about its contributors.
